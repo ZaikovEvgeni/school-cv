@@ -19,3 +19,10 @@
   * GIT
   * FIGMA
   * SCSS
+
+  ## MY BACKGROUND:
+  
+    1. Course SENLA
+       * Project course:
+        1. TODOLIST(html, css, js)
+        2. Gallery film (js, html, css, API)
