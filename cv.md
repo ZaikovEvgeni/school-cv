@@ -7,9 +7,9 @@
 
  ## ABOUT MYSELF:
 
-  1.I am constantly improving myself
-  2.I love to learn new things
-  3.I learn new things easy
+  1. I am constantly improving myself
+  2. I love to learn new things
+  3. I learn new things easy
   
 ## MY SKILLS:
 
