@@ -185,3 +185,35 @@ nav {
   color: black;
   transition: all .3s;
 }
+
+
+/* footer */
+
+footer {
+  grid-area: footer;
+  border: 3px solid #9cb9d1;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
+
+.footer__logo {
+  width: 100px;
+  height: 60px;
+}
+
+.footer__link:hover {
+  color: black;
+  transition: all .3s;
+}
+
+.footer__data {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 15px;
+  opacity: .5;
+}
